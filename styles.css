@@ -1,0 +1,37 @@
+img {
+    max-width: 100%;
+    max-height: 95%;
+    text-align: center;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+
+h1, h2 {
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.title {
+    background-color: rgb(169,169,169);    
+}
+
+.banner {
+    background-color: white;
+    text-align: center;
+    max-width: 95%;
+    max-height: 95%;
+    margin: auto;
+}
+
+p {
+    text-align: center;
+}
+
+.descricao {
+margin: 5%;
+text-align: justify;
+}
